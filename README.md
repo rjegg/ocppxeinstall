@@ -1563,7 +1563,9 @@ exit
 
 本記事はPXEのための設定がメインだが、参考情報としてOCPインストールの構成情報を記載する。
 
-```openshift-install.conf
+install-config.yaml
+
+```install-config.yaml
 apiVersion: v1
 baseDomain: ocptest.com
 compute:
