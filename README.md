@@ -1050,6 +1050,7 @@ TFPTサーバー上に下記ファイルを配置。
 それぞれのファイルはこちらからダウンロード。
 
 http://boot.ipxe.org/undionly.kpxe
+
 http://boot.ipxe.org/ipxe.efi 
 
 
