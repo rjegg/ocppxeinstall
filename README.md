@@ -1591,7 +1591,7 @@ networking:
 platform:
   none: {}
 fips: false
-pullSecret: '{"auths":{"cloud.openshift.com":{"auth":"b3B---","email":"ryojuk@jp.ibm.com"},"quay.io":{"auth":"b3B---","email":"---"}}}'
+pullSecret: '{"auths":{"cloud.openshift.com":{"auth":"b3B---","email":"hogehoge@xx.xx.com"},"quay.io":{"auth":"b3B---","email":"---"}}}'
 sshKey: 'ssh-rsa AAA---'
 
 ```
